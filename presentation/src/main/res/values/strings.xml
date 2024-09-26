@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="movie_poster_description">%1$s Poster</string>
+    <string name="now_playing_movies">Now Playing Movies</string>
+    <string name="back">navigate back</string>
+    <string name="overview">Overview:</string>
+    <string name="loading">Loading..</string>
+    <string name="error">Error</string>
+    <string name="confirm">Confirm</string>
+    <string name="unknown_error_msg">Unknown Error Occurred</string>
+    <string name="retry">Retry</string>
+    <string name="no_movies_available">No movies available</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="top_app_bar_title">TMDb App</string>
+</resources>
